@@ -2,8 +2,8 @@
 
 void func(char);
 
-int main(){
-
+int main()
+{ //int
 int x=4;
 char y='m';
 
