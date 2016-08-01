@@ -3,11 +3,11 @@
 void func(char);
 
 int main()
-{ //int
-int x=4;
+{ 
+int x=22;
 char y='m';
 
-printf("%d",x);
+printf("NurettinAkyuz's age is %d",x);
 func(y);
 
 return 0;
@@ -18,4 +18,3 @@ void func (char pY){
 printf("%c",pY);
 }
 
-hvfdhkjbfkj
